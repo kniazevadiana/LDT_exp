@@ -47,6 +47,18 @@ const study = lab.util.fromObject({
             },
             {
               "required": true,
+              "type": "input",
+              "label": "Укажите Ваш идентификационный номер (его Вам сообщит экспериментатор)",
+              "name": "participant_id"
+            },
+            {
+              "required": true,
+              "type": "input",
+              "label": "Укажите Ваш экспериментальный протокол (его Вам сообщит экспериментатор)",
+              "name": "exp_list"
+            },
+            {
+              "required": true,
               "type": "radio",
               "label": "Пол",
               "options": [
