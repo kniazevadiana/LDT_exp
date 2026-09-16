@@ -12,12 +12,12 @@ const study = lab.util.fromObject({
       "type": "lab.plugins.Download",
       "filePrefix": "fin_letter_morph_list_1",
       "path": undefined
-    },
-    {
+    }
+    /*, {
     "type": "lab.plugins.Transmit",
     "url": "https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1",
     "dataFilter": "csv"
-    }
+  } */
   ],
   "metadata": {
     "title": "fin_letter_morph_list_1",
