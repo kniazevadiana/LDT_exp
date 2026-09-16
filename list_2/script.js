@@ -13,6 +13,11 @@ const study = lab.util.fromObject({
       "filePrefix": "fin_letter_morph_list_2",
       "path": undefined
     }
+    /*, {
+    "type": "lab.plugins.Transmit",
+    "url": "https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1",
+    "dataFilter": "csv"
+  } */
   ],
   "metadata": {
     "title": "fin_letter_morph_list_2",
@@ -42,6 +47,12 @@ const study = lab.util.fromObject({
             },
             {
               "required": true,
+              "type": "input",
+              "label": "Укажите Ваш идентификационный номер (его Вам сообщит экспериментатор)",
+              "name": "participant_id"
+            },
+            {
+              "required": true,
               "type": "radio",
               "label": "Пол",
               "options": [
@@ -54,13 +65,13 @@ const study = lab.util.fromObject({
                   "coding": "f"
                 }
               ],
-              "name": "pol"
+              "name": "sex"
             },
             {
               "required": true,
               "type": "input",
               "label": "Возраст",
-              "name": "vozrast"
+              "name": "age"
             },
             {
               "required": true,
@@ -76,7 +87,7 @@ const study = lab.util.fromObject({
                   "coding": "not_monoling"
                 }
               ],
-              "name": "yavlyaetsya-li-russkij-yazyk-dlya-vas-edinstvennym-rodnym"
+              "name": "ru_native"
             },
             {
               "required": true,
@@ -96,13 +107,13 @@ const study = lab.util.fromObject({
                   "coding": "ambidextrous"
                 }
               ],
-              "name": "vedushaya-ruka"
+              "name": "handedness"
             },
             {
               "required": true,
               "type": "input",
               "label": "Страна проживания",
-              "name": "strana-prozhivaniya"
+              "name": "country"
             }
           ],
           "scrollTop": true,
@@ -129,7 +140,7 @@ const study = lab.util.fromObject({
               "stroke": null,
               "strokeWidth": 1,
               "fill": "black",
-              "text": "Положите указательный палец правой руки на клавишу J \nи указательный палец левой руки на клавишу F. \nНа экране будут предъявляться цепочки букв. Ваша задача - \nкак можно быстрее определить, является ли цепочка букв \nсловом русского языка. Если это слово (например, \"стол\"), \nнажмите правую кнопку (J). Если это не слово \n(например, \"нолп\"), нажмите левую кнопку (F). \n\nПеред началом эксперимента будет небольшая тренировка. \nЕсли Вы готовы приступить к тренировке, нажмите Пробел.",
+              "text": "Переключите язык клавиатуры на латинскую раскладку. \nПоложите указательный палец правой руки на клавишу J \nи указательный палец левой руки на клавишу F. \nНа экране будут предъявляться цепочки букв. Ваша задача - \nкак можно быстрее определить, является ли цепочка букв \nсловом русского языка. Если это слово (например, \"стол\"), \nнажмите правую кнопку (J). Если это не слово \n(например, \"нолп\"), нажмите левую кнопку (F). \n\nПеред началом эксперимента будет небольшая тренировка. \nЕсли Вы готовы приступить к тренировке, нажмите Пробел.",
               "fontStyle": "normal",
               "fontWeight": "normal",
               "fontSize": "24",
