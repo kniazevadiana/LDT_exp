@@ -3192,5 +3192,25 @@ const study = lab.util.fromObject({
   ]
 })
 
+// Отправка данных на Google Apps Script
+study.on('end', () => {
+  try {
+    const csv = study.options.datastore.exportCsv()
+    fetch(
+      'https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1',
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: csv
+      }
+    )
+      .then(r => r.text())
+      .then(text => console.log('Ответ сервера:', text))
+      .catch(e => console.error('Ошибка отправки:', e))
+  } catch (e) {
+    console.error('Не удалось отправить данные на сервер:', e)
+  }
+})
+
 // Let's go!
 study.run()
