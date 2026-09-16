@@ -3384,5 +3384,27 @@ const study = lab.util.fromObject({
   ]
 })
 
+// Отправка данных на Google Apps Script в обход CORS-preflight:
+// без кастомных заголовков и с Content-Type: text/plain браузер
+// не будет слать OPTIONS-запрос, а mode: 'no-cors' не требует
+// читать ответ сервера (нам и не нужно — надёжность обеспечивает
+// плагин Download, который сработает в любом случае).
+study.on('end', () => {
+  try {
+    const csv = study.options.datastore.exportCsv()
+    fetch(
+      'https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1',
+      {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'text/plain;charset=utf-8' },
+        body: csv
+      }
+    )
+  } catch (e) {
+    console.error('Не удалось отправить данные на сервер:', e)
+  }
+})
+
 // Let's go!
 study.run()
