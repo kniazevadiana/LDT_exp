@@ -3388,8 +3388,18 @@ const study = lab.util.fromObject({
 study.on('end', () => {
   try {
     const csv = study.options.datastore.exportCsv()
+
+    // достаём значения, введённые участником в анкете
+    const state = study.options.datastore.state
+    const pid = state.participant_id || 'unknown'
+    const list = state.exp_list || 'unknown'
+    const sex = state.sex || 'unknown'
+    const stamp = new Date().toISOString().replace(/[:.]/g, '-')
+    const filename = `${pid}_${list}_${sex}_${stamp}.csv` // создаем кастомное название
+
     fetch(
-      'https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1',
+      'https://script.google.com/macros/s/AKfycbwseWJo402kIqqKSqUkAvAkeZsVUJz_wNUjrwazhpLol0FM3Kdonh2zDaXFWErRfMjthA/exec?key=en-regardant-vers-le-pays-de-france&study=fin_letter_morph_list_1' +
+      '&filename=' + encodeURIComponent(filename),
       {
         method: 'POST',
         headers: { 'Content-Type': 'text/plain;charset=utf-8' },
