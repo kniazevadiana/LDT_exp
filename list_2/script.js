@@ -358,7 +358,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "белый_p5.png",
@@ -370,7 +371,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "билет_p5.png",
@@ -382,7 +384,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "бонус_p5.png",
@@ -394,7 +397,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "босой_p5.png",
@@ -406,7 +410,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "бурый_p5.png",
@@ -418,7 +423,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "вагон_p5.png",
@@ -430,7 +436,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "ветер_p5.png",
@@ -442,7 +449,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "вечер_p5.png",
@@ -454,7 +462,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "вещий_p5.png",
@@ -466,7 +475,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "вирус_p5.png",
@@ -478,7 +488,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "вялый_p5.png",
@@ -490,7 +501,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "голос_p5.png",
@@ -502,7 +514,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "голый_p5.png",
@@ -514,7 +527,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "девиз_p5.png",
@@ -526,7 +540,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "декор_p5.png",
@@ -538,7 +553,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "демон_p5.png",
@@ -550,7 +566,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "диван_p5.png",
@@ -562,7 +579,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "дикий_p5.png",
@@ -574,7 +592,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "дюжий_p5.png",
@@ -586,7 +605,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "жетон_p5.png",
@@ -598,7 +618,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "живот_p5.png",
@@ -610,7 +631,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "карий_p5.png",
@@ -622,7 +644,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "кефир_p5.png",
@@ -634,7 +657,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "кисет_p5.png",
@@ -646,7 +670,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "козий_p5.png",
@@ -658,7 +683,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "комар_p5.png",
@@ -670,7 +696,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "комод_p5.png",
@@ -682,7 +709,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "косой_p5.png",
@@ -694,7 +722,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "котёл_p5.png",
@@ -706,7 +735,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "кулон_p5.png",
@@ -718,7 +748,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "кумир_p5.png",
@@ -730,7 +761,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "куцый_p3.png",
@@ -742,7 +774,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "кучер_p3.png",
@@ -754,7 +787,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "левый_p3.png",
@@ -766,7 +800,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лидер_p3.png",
@@ -778,7 +813,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лимон_p3.png",
@@ -790,7 +826,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лихой_p3.png",
@@ -802,7 +839,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лопух_p3.png",
@@ -814,7 +852,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лотос_p3.png",
@@ -826,7 +865,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лысый_p3.png",
@@ -838,7 +878,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "любой_p3.png",
@@ -850,7 +891,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "лютый_p3.png",
@@ -862,7 +904,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "малый_p3.png",
@@ -874,7 +917,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "манеж_p3.png",
@@ -886,7 +930,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "метан_p3.png",
@@ -898,7 +943,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "милый_p3.png",
@@ -910,7 +956,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "мираж_p3.png",
@@ -922,7 +969,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "молот_p3.png",
@@ -934,7 +982,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "музей_p3.png",
@@ -946,7 +995,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "нагой_p3.png",
@@ -958,7 +1008,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "налог_p3.png",
@@ -970,7 +1021,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "немой_p3.png",
@@ -982,7 +1034,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "нищий_p3.png",
@@ -994,7 +1047,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "палач_p3.png",
@@ -1006,7 +1060,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "палец_p3.png",
@@ -1018,7 +1073,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "парик_p3.png",
@@ -1030,7 +1086,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "пафос_p3.png",
@@ -1042,7 +1099,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "пегий_p3.png",
@@ -1054,7 +1112,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "петух_p3.png",
@@ -1066,7 +1125,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "пеший_p3.png",
@@ -1078,7 +1138,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "пират_p3.png",
@@ -1090,7 +1151,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "полый_p3.png",
@@ -1102,7 +1164,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "пятый_p3.png",
@@ -1114,7 +1177,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "робот_pc.png",
@@ -1126,7 +1190,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "роман_pc.png",
@@ -1138,7 +1203,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "русый_pc.png",
@@ -1150,7 +1216,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "рыжий_pc.png",
@@ -1162,7 +1229,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "рябой_pc.png",
@@ -1174,7 +1242,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "седой_pc.png",
@@ -1186,7 +1255,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "серый_pc.png",
@@ -1198,7 +1268,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сивый_pc.png",
@@ -1210,7 +1281,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сизый_pc.png",
@@ -1222,7 +1294,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "синий_pc.png",
@@ -1234,7 +1307,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "солод_pc.png",
@@ -1246,7 +1320,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сосед_pc.png",
@@ -1258,7 +1333,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сотый_pc.png",
@@ -1270,7 +1346,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сухой_pc.png",
@@ -1282,7 +1359,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сущий_pc.png",
@@ -1294,7 +1372,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сырой_pc.png",
@@ -1306,7 +1385,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сытый_pc.png",
@@ -1318,7 +1398,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "сякой_pc.png",
@@ -1330,7 +1411,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "тихий_pc.png",
@@ -1342,7 +1424,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "тощий_pc.png",
@@ -1354,7 +1437,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "тугой_pc.png",
@@ -1366,7 +1450,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "тупой_pc.png",
@@ -1378,7 +1463,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "фасон_pc.png",
@@ -1390,7 +1476,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "финал_pc.png",
@@ -1402,7 +1489,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "форум_pc.png",
@@ -1414,7 +1502,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "халат_pc.png",
@@ -1426,7 +1515,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "хилый_pc.png",
@@ -1438,7 +1528,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "холод_pc.png",
@@ -1450,7 +1541,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "худой_pc.png",
@@ -1462,7 +1554,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "целый_pc.png",
@@ -1474,7 +1567,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "чужой_pc.png",
@@ -1486,7 +1580,8 @@ const study = lab.util.fromObject({
           "PoS": "adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "шорох_pc.png",
@@ -1498,7 +1593,8 @@ const study = lab.util.fromObject({
           "PoS": "noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "j"
         },
         {
           "prime_path": "бадий_p5.png",
@@ -1510,7 +1606,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "барый_p5.png",
@@ -1522,7 +1619,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бебый_p5.png",
@@ -1534,7 +1632,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бедор_p5.png",
@@ -1546,7 +1645,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бигой_p5.png",
@@ -1558,7 +1658,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бидий_p5.png",
@@ -1570,7 +1671,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бизый_p5.png",
@@ -1582,7 +1684,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бузый_p5.png",
@@ -1594,7 +1697,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "бумый_p5.png",
@@ -1606,7 +1710,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "буной_p5.png",
@@ -1618,7 +1723,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "быдий_p5.png",
@@ -1630,7 +1736,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "важой_p5.png",
@@ -1642,7 +1749,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "ветак_p5.png",
@@ -1654,7 +1762,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "вибый_p5.png",
@@ -1666,7 +1775,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "видер_p5.png",
@@ -1678,7 +1788,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "вуцой_p5.png",
@@ -1690,7 +1801,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гамол_p5.png",
@@ -1702,7 +1814,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гезий_p5.png",
@@ -1714,7 +1827,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гозой_p5.png",
@@ -1726,7 +1840,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гучас_p5.png",
@@ -1738,7 +1853,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гыдой_p5.png",
@@ -1750,7 +1866,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "гягой_p5.png",
@@ -1762,7 +1879,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "датин_p5.png",
@@ -1774,7 +1892,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дижий_p5.png",
@@ -1786,7 +1905,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дирый_p5.png",
@@ -1798,7 +1918,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "довый_p5.png",
@@ -1810,7 +1931,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "додый_p5.png",
@@ -1822,7 +1944,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "допап_p5.png",
@@ -1834,7 +1957,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дориг_p5.png",
@@ -1846,7 +1970,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дувой_p5.png",
@@ -1858,7 +1983,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дупый_p5.png",
@@ -1870,7 +1996,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "дябый_p5.png",
@@ -1882,7 +2009,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p5",
           "filter_mask": "[0,0,0,0,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "жебый_p3.png",
@@ -1894,7 +2022,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "жодый_p3.png",
@@ -1906,7 +2035,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "жолеф_p3.png",
@@ -1918,7 +2048,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "жудой_p3.png",
@@ -1930,7 +2061,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "запим_p3.png",
@@ -1942,7 +2074,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зебой_p3.png",
@@ -1954,7 +2087,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зежий_p3.png",
@@ -1966,7 +2100,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зенар_p3.png",
@@ -1978,7 +2113,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зорый_p3.png",
@@ -1990,7 +2126,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зужий_p3.png",
@@ -2002,7 +2139,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зырый_p3.png",
@@ -2014,7 +2152,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "зялой_p3.png",
@@ -2026,7 +2165,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "йомак_p3.png",
@@ -2038,7 +2178,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "каван_p3.png",
@@ -2050,7 +2191,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "кахад_p3.png",
@@ -2062,7 +2204,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "кенаг_p3.png",
@@ -2074,7 +2217,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "керор_p3.png",
@@ -2086,7 +2230,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "кичор_p3.png",
@@ -2098,7 +2243,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "ковях_p3.png",
@@ -2110,7 +2256,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "кукал_p3.png",
@@ -2122,7 +2269,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "купаз_p3.png",
@@ -2134,7 +2282,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "купег_p3.png",
@@ -2146,7 +2295,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "лодон_p3.png",
@@ -2158,7 +2308,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "мапам_p3.png",
@@ -2170,7 +2321,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "мидом_p3.png",
@@ -2182,7 +2334,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "мимоп_p3.png",
@@ -2194,7 +2347,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "мират_p3.png",
@@ -2206,7 +2360,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "мобой_p3.png",
@@ -2218,7 +2373,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "момад_p3.png",
@@ -2230,7 +2386,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "невап_p3.png",
@@ -2242,7 +2399,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "нивал_p3.png",
@@ -2254,7 +2412,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "нобий_p3.png",
@@ -2266,7 +2425,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "p3",
           "filter_mask": "[0,0,1,0,0]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "номит_pc.png",
@@ -2278,7 +2438,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "пувой_pc.png",
@@ -2290,7 +2451,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "редуд_pc.png",
@@ -2302,7 +2464,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "рикад_pc.png",
@@ -2314,7 +2477,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "римок_pc.png",
@@ -2326,7 +2490,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "рисот_pc.png",
@@ -2338,7 +2503,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "рихий_pc.png",
@@ -2350,7 +2516,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "росат_pc.png",
@@ -2362,7 +2529,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "сачаф_pc.png",
@@ -2374,7 +2542,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "содег_pc.png",
@@ -2386,7 +2555,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "судон_pc.png",
@@ -2398,7 +2568,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "тевиш_pc.png",
@@ -2410,7 +2581,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "тежий_pc.png",
@@ -2422,7 +2594,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "тимас_pc.png",
@@ -2434,7 +2607,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "тумой_pc.png",
@@ -2446,7 +2620,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "фаног_pc.png",
@@ -2458,7 +2633,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "фодос_pc.png",
@@ -2470,7 +2646,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "фотад_pc.png",
@@ -2482,7 +2659,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "хедый_pc.png",
@@ -2494,7 +2672,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "хород_pc.png",
@@ -2506,7 +2685,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "хябый_pc.png",
@@ -2518,7 +2698,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "цубий_pc.png",
@@ -2530,7 +2711,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "цупор_pc.png",
@@ -2542,7 +2724,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "чахац_pc.png",
@@ -2554,7 +2737,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "чедый_pc.png",
@@ -2566,7 +2750,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "чибаж_pc.png",
@@ -2578,7 +2763,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "чибий_pc.png",
@@ -2590,7 +2776,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "чирой_pc.png",
@@ -2602,7 +2789,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "шесий_pc.png",
@@ -2614,7 +2802,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "шобий_pc.png",
@@ -2626,7 +2815,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "шодул_pc.png",
@@ -2638,7 +2828,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-noun",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         },
         {
           "prime_path": "щатый_pc.png",
@@ -2650,7 +2841,8 @@ const study = lab.util.fromObject({
           "PoS": "pseudo-adj",
           "condition": "pc",
           "filter_mask": "[1,1,1,1,1]",
-          "list": "2"
+          "list": "2",
+          "corr_ans": "f"
         }
       ],
       "sample": {
