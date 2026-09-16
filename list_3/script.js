@@ -3182,7 +3182,8 @@ const study = lab.util.fromObject({
       ],
       "files": {},
       "responses": {
-        "": ""
+        "keypress(j)": "j",
+        "keypress(f)": "f"
       },
       "parameters": {},
       "messageHandlers": {},
