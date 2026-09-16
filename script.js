@@ -53,12 +53,6 @@ const study = lab.util.fromObject({
             },
             {
               "required": true,
-              "type": "input",
-              "label": "Укажите Ваш экспериментальный протокол (его Вам сообщит экспериментатор)",
-              "name": "exp_list"
-            },
-            {
-              "required": true,
               "type": "radio",
               "label": "Пол",
               "options": [
