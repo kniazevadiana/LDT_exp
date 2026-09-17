@@ -3359,7 +3359,7 @@ const study = lab.util.fromObject({
           "stroke": null,
           "strokeWidth": 1,
           "fill": "black",
-          "text": "Спасибо за участие в эксперименте!",
+          "text": "Спасибо за участие в эксперименте! \nМожно закрыть эту вкладку",
           "fontStyle": "normal",
           "fontWeight": "normal",
           "fontSize": 32,
